@@ -153,7 +153,7 @@ les problèmes](http://www.pearson.fr/livre/?GCOI=27440100048330), Annexe B du 
 
 * [TeX pour l'Impatient](ftp://tug.org/tex/impatient/fr/fbook.pdf), par Paul Abrahams, Kathryn Hargreaves, and Karl Berry, trad. Marc Chaudemanche
 
-###Lua
+### Lua
 
 * [Introduction à la programmation Lua](http://www.luteus.biz/Download/LoriotPro_Doc/LUA/LUA_Training_FR/Introduction_Programmation.html)
 * [Lua : le tutoriel](http://wxlua.developpez.com/tutoriels/lua/general/cours-complet/), par Claude Urban
